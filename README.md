@@ -1,7 +1,12 @@
-# Pocket Routes
+# Pocket Routes by TonTech
 
-Official TonTech marketing, support and privacy pages for Pocket Routes.
+Official marketing, privacy, terms and support site.
 
-Published at https://tontechco.github.io/pocketroutes-site/ using GitHub Pages from the main branch root.
+- Marketing: https://tontechco.github.io/pocketroutes-site/
+- Privacy: https://tontechco.github.io/pocketroutes-site/privacy/
+- Terms: https://tontechco.github.io/pocketroutes-site/terms/
+- Support: https://tontechco.github.io/pocketroutes-site/support/
 
-Contact: info@tontech.co.
+GitHub Pages publishes the main branch root, using .nojekyll. Public assets live in assets/. This follows TonTechCo/mixreveal-site, saffronstreet-site and neonblitz-site.
+
+Contact: info@tontech.co. Pocket Routes remains unreleased, so the site does not advertise an active download.
